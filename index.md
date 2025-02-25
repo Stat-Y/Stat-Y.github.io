@@ -1,5 +1,5 @@
 ---
-title: Youngjin Cho
+title: Home
 layout: home
 ---
 
