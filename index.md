@@ -13,7 +13,7 @@ I am a Ph.D. candidate in Statistics at Virginia Tech, advised by Dr. Pang Du, w
 - **High-Dimensional Statistics:** I work on variable selection for multiple responses.
 - **Collaborative Research:** I am also involved in a collaborative project in social science.  
 
-To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu). For more details, see my [Curriculum Vitae](link-to-your-CV).
+To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu). For more details, see my [Curriculum Vitae](https://github.com/Stat-Y/Stat-Y.github.io/blob/main/CV_Youngjin_Cho.pdf).
 
 ---
 
