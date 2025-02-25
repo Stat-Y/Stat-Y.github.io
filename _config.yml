@@ -5,5 +5,5 @@ url: "https://yourusername.github.io"
 baseurl: "/"
 markdown: kramdown
 header_pages:
-  - home.markdown
-  - cv.markdown
+  - index.md
+  - cv.md
