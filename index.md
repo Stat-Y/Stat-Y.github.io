@@ -20,15 +20,15 @@ To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu
 ## Publications
 
 ### Journal Articles
-- **Cho, Y.**, Hong, Y., and Du, P. (2025+). *An Accurate Computational Approach for Partial Likelihood Using Poisson-Binomial Distributions*. **Computational Statistics & Data Analysis**, Accepted.  
-- **Cho, Y.**, Do, Q., Du, P., and Hong, Y. (2024). *Reliability Study of Battery Lives: A Functional Degradation Analysis Approach*. **Annals of Applied Statistics**, Vol.18, No.4, 3185-3204.  
-- **Cho, Y.** and Park, S. (2022). *Multivariate Response Regression with Low-Rank and Generalized Sparsity*. **Journal of the Korean Statistical Society**, Vol.51, 847-867. 
+- **Cho, Y.**, Hong, Y., and Du, P. (2025+), *An Accurate Computational Approach for Partial Likelihood Using Poisson-Binomial Distributions*, **Computational Statistics & Data Analysis**, Accepted.  
+- **Cho, Y.**, Do, Q., Du, P., and Hong, Y. (2024), *Reliability Study of Battery Lives: A Functional Degradation Analysis Approach*, **Annals of Applied Statistics**, Vol.18, No.4, 3185-3204.  
+- **Cho, Y.** and Park, S. (2022), *Multivariate Response Regression with Low-Rank and Generalized Sparsity*, **Journal of the Korean Statistical Society**, Vol.51, 847-867. 
 
 ### Papers in Progress
-- **Cho, Y.** and Du, P. (2025+). *Smoothing Spline Competing Risk Cox Model*.  
-- Lin, Z., **Cho, Y.**, Du, P., and Hong, Y. (2025+). *A New Approach for Computing Partial Likelihood for Cox Model Under Competing Risks Using Poisson Multinomial Distribution*.  
-- **Cho, Y.**, Lee, E., and Park, S. (2025+). *Low-rank and Sparse Smoothed Quantile Regression Models for Multiple Responses*.  
-- Sim, E., **Cho, Y.**, and Jeong, S. (2025+). *Introducing the Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) to Quantitatively Examine Intersectional Workplace Inequities: A Methodological Study*. 
+- **Cho, Y.** and Du, P. (2025+), *Smoothing Spline Competing Risk Cox Model*.  
+- Lin, Z., **Cho, Y.**, Du, P., and Hong, Y. (2025+), *A New Approach for Computing Partial Likelihood for Cox Model Under Competing Risks Using Poisson Multinomial Distribution*.  
+- **Cho, Y.**, Lee, E., and Park, S. (2025+), *Low-rank and Sparse Smoothed Quantile Regression Models for Multiple Responses*.  
+- Sim, E., **Cho, Y.**, and Jeong, S. (2025+), *Introducing the Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) to Quantitatively Examine Intersectional Workplace Inequities: A Methodological Study*. 
 
 ---
 
