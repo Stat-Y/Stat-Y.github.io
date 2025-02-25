@@ -3,4 +3,4 @@ title: "Curriculum Vitae"
 layout: page
 ---
 
-[CV](link-to-your-CV)
+For more details about me, see my [CV](link-to-your-CV).
