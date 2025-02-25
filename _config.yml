@@ -6,7 +6,5 @@ baseurl: "/"
 markdown: kramdown
 
 navigation:
-  - title: "Home"
-    url: "/"
   - title: "CV"
     url: "/cv.html"
