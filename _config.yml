@@ -10,3 +10,7 @@ navigation:
     url: "/"
   - title: "CV"
     url: "/cv.html"
+
+header_pages:
+  - index
+  - cv
