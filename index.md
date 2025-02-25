@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+<meta name="google-site-verification" content="tmm5SWMEOjE4AK87DLRUXVKslfRSjTkOk2Eo1KH4JUI" />
 ---
 
 ## Welcome to Youngjin Cho's Homepage
