@@ -32,14 +32,14 @@ I am a Ph.D. candidate in Statistics at Virginia Tech. My research interests inc
 
 ## Education
 
-- **Ph.D. Candidate in Statistics, Virginia Tech**
+- **Ph.D. Candidate in Statistics, Virginia Tech**  
   *Blacksburg, VA, United States*  
   Advisor: **Dr. Pang Du** (Professor, Virginia Tech)  
   Co-advisor: **Dr. Yili Hong** (Professor, Virginia Tech)  
 
-- **M.S. in Statistics, Sungkyunkwan University**
+- **M.S. in Statistics, Sungkyunkwan University**  
   *Seoul, Republic of Korea*  
   Advisor: **Dr. Seyoung Park** (Associate Professor, Yonsei University)  
 
-- **B.Ec. in Statistics, Sungkyunkwan University**
+- **B.Ec. in Statistics, Sungkyunkwan University**  
   *Seoul, Republic of Korea*  
