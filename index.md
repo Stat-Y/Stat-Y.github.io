@@ -3,10 +3,6 @@ title: Home
 layout: home
 ---
 
-## Navigation
-- [Home](index.md)
-- [CV](cv.md)
-
 ## Welcome to Youngjin Cho's Homepage
 
 I am a Ph.D. candidate in Statistics at Virginia Tech, advised by Dr. Pang Du, with Dr. Yili Hong as my co-advisor. My research interests include:
