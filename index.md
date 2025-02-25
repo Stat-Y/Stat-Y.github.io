@@ -5,7 +5,7 @@ layout: home
 
 ## Welcome to Youngjin Cho's Homepage
 
-I am a Ph.D. candidate in Statistics at Virginia Tech, advised by Dr. Pang Du, with Dr. Yili Hong as my co-advisor. My research interests include:
+I am a Ph.D. candidate in Statistics at Virginia Tech, advised by [Dr. Pang Du](https://pangdu3a.github.io/), with [Dr. Yili Hong](https://scholar.google.com/citations?user=jIJnyHMAAAAJ&hl=en) as my co-advisor. My research interests include:
 
 - **Smoothing Splines:** I conduct research on various smoothing spline ANOVA models, concentrating on 1) developing models for survival data and 2) exploring statistical inference using functional Bahadur representation.
 - **Functional Data Analysis:** I take an application-driven approach to diverse functional datasets. A key focus is battery discharge curve data, representing longitudinal functional data with a heterogeneous domain.
@@ -20,9 +20,9 @@ To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu
 ## Publications
 
 ### Journal Articles
-- **Cho, Y.**, Hong, Y., and Du, P. (2025+), *An Accurate Computational Approach for Partial Likelihood Using Poisson-Binomial Distributions*, **Computational Statistics & Data Analysis**, Accepted.  
-- **Cho, Y.**, Do, Q., Du, P., and Hong, Y. (2024), *Reliability Study of Battery Lives: A Functional Degradation Analysis Approach*, **Annals of Applied Statistics**, Vol.18, No.4, 3185-3204.  
-- **Cho, Y.** and Park, S. (2022), *Multivariate Response Regression with Low-Rank and Generalized Sparsity*, **Journal of the Korean Statistical Society**, Vol.51, 847-867. 
+- **Cho, Y.**, Hong, Y., and Du, P. (2025+), *An Accurate Computational Approach for Partial Likelihood Using Poisson-Binomial Distributions*, ***Computational Statistics & Data Analysis***, Accepted.  
+- **Cho, Y.**, Do, Q., Du, P., and Hong, Y. (2024), *Reliability Study of Battery Lives: A Functional Degradation Analysis Approach*, ***Annals of Applied Statistics***, Vol.18, No.4, 3185-3204.  
+- **Cho, Y.** and Park, S. (2022), *Multivariate Response Regression with Low-Rank and Generalized Sparsity*, ***Journal of the Korean Statistical Society***, Vol.51, 847-867. 
 
 ### Papers in Progress
 - **Cho, Y.** and Du, P. (2025+), *Smoothing Spline Competing Risk Cox Model*.  
@@ -35,10 +35,10 @@ To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu
 ## Education
 
 - **Ph.D. Candidate in Statistics, Virginia Tech**  
-  Advisor: Dr. Pang Du (Professor, Virginia Tech)  
-  Co-advisor: Dr. Yili Hong (Professor, Virginia Tech)  
+  Advisor: [Dr. Pang Du](https://pangdu3a.github.io/) (Professor, Virginia Tech)  
+  Co-advisor: [Dr. Yili Hong](https://scholar.google.com/citations?user=jIJnyHMAAAAJ&hl=en) (Professor, Virginia Tech)  
 
 - **M.S. in Statistics, Sungkyunkwan University**  
-  Advisor: Dr. Seyoung Park (Associate Professor, Yonsei University)  
+  Advisor: [Dr. Seyoung Park](https://sites.google.com/view/seyoungpark/home) (Associate Professor, Yonsei University)  
 
 - **B.Ec. in Statistics, Sungkyunkwan University** 
