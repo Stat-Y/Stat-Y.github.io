@@ -1,5 +1,6 @@
 ---
 title: Youngjin Cho
+description: Ph.D. candidate in Statistics at Virginia Tech
 layout: home
 ---
 
