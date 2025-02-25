@@ -9,7 +9,7 @@ I am a Ph.D. candidate in Statistics at Virginia Tech, advised by Dr. Pang Du, w
 
 - **Smoothing Splines:** I conduct research on various smoothing spline ANOVA models, concentrating on 1) developing models for survival data and 2) exploring statistical inference using functional Bahadur representation.
 - **Functional Data Analysis:** I take a more application-driven approach, applying functional data analysis to various types of data. One key area is the analysis of battery degradation data, which involves longitudinal functional data with a heterogeneous domain.  
-- **Survival Analysis:** I focus on the accurate computation of partial likelihood, including computational, methodological, and theoretical development, with a particular emphasis on applications involving heavily tied data. 
+- **Survival Analysis:** I focus on the accurate computation of partial likelihood, including computational, methodological, and theoretical development, with a particular emphasis on its application to heavily tied data.
 - **High-Dimensional Statistics:** I work on variable selection for multiple responses.
 - **Collaborative Research:** I am also involved in a collaborative project in social science.  
 
