@@ -1,6 +1,10 @@
 title: "Youngjin Cho"
 author: "Youngjin Cho"
-theme: "minima"  # You can change the theme to another one if you like
-url: "https://yourusername.github.io"  # Replace with your GitHub Pages URL
+theme: "minima"
+url: "https://yourusername.github.io"  # Replace with your actual GitHub Pages URL
 baseurl: "/"  # Keep this if your site is at the root of your repository
 markdown: kramdown  # Recommended for better Markdown support
+collections:
+  pages:
+    output: true
+    permalink: /:path/
