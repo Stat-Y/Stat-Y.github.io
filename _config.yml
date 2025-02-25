@@ -4,8 +4,7 @@ theme: "minima"
 url: "https://yourusername.github.io"  # Replace with your actual GitHub Pages URL
 baseurl: "/"  # Keep this if your site is at the root of your repository
 markdown: kramdown  # Recommended for better Markdown support
-navigation:
-  - title: "Home"
-    url: "/"
-  - title: "CV"
-    url: "/cv.html"
+
+header_pages:
+  - home
+  - cv
