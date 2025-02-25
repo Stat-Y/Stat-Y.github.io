@@ -11,9 +11,10 @@ I am a Ph.D. candidate in Statistics at Virginia Tech, advised by Dr. Pang Du, w
 - **Functional Data Analysis:** I take a more application-driven approach, applying functional data analysis to various types of data. One key area is the analysis of battery degradation data, which involves longitudinal functional data with a heterogeneous domain.  
 - **Survival Analysis:** I focus on the accurate computation of partial likelihood, including computational, methodological, and theoretical development, with a particular emphasis on applications involving heavily tied data. 
 - **High-Dimensional Statistics:** I work on variable selection for multiple responses.
-- **Collaborative Research:** I am also involved in a collaborative project in social science.
+- **Collaborative Research:** I am also involved in a collaborative project in social science.  
 
 To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu). For more details about me, see my [CV](link-to-your-CV).
+
 ---
 
 ## Publications
@@ -33,14 +34,11 @@ To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu
 
 ## Education
 
-- **Ph.D. Candidate in Statistics, Virginia Tech**  
-  *Blacksburg, VA, United States*  
+- **Ph.D. Candidate in Statistics, Virginia Tech**, *Blacksburg, VA, United States*  
   Advisor: **Dr. Pang Du** (Professor, Virginia Tech)  
   Co-advisor: **Dr. Yili Hong** (Professor, Virginia Tech)  
 
-- **M.S. in Statistics, Sungkyunkwan University**  
-  *Seoul, Republic of Korea*  
+- **M.S. in Statistics, Sungkyunkwan University**, *Seoul, Republic of Korea*  
   Advisor: **Dr. Seyoung Park** (Associate Professor, Yonsei University)  
 
-- **B.Ec. in Statistics, Sungkyunkwan University**  
-  *Seoul, Republic of Korea*  
+- **B.Ec. in Statistics, Sungkyunkwan University**, *Seoul, Republic of Korea*  
