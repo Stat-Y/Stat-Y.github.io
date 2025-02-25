@@ -34,11 +34,11 @@ To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu
 
 ## Education
 
-- **Ph.D. Candidate in Statistics, Virginia Tech**, *Blacksburg, VA, United States*  
+- **Ph.D. Candidate in Statistics, Virginia Tech**  
   Advisor: **Dr. Pang Du** (Professor, Virginia Tech)  
   Co-advisor: **Dr. Yili Hong** (Professor, Virginia Tech)  
 
-- **M.S. in Statistics, Sungkyunkwan University**, *Seoul, Republic of Korea*  
+- **M.S. in Statistics, Sungkyunkwan University**  
   Advisor: **Dr. Seyoung Park** (Associate Professor, Yonsei University)  
 
-- **B.Ec. in Statistics, Sungkyunkwan University**, *Seoul, Republic of Korea*  
+- **B.Ec. in Statistics, Sungkyunkwan University** 
