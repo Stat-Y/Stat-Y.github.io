@@ -12,22 +12,6 @@ I am a Ph.D. candidate in Statistics at Virginia Tech. My research interests inc
 - **Survival Analysis:** I focus on the accurate computation of partial likelihood, including computational, methodological, and theoretical development, with a particular emphasis on applications involving heavily tied data. 
 - **High-Dimensional Statistics:** I work on variable selection for multiple responses.
 - **Collaborative Research:** I am also involved in a collaborative project in social science.  
-
----
-
-## Education
-
-- **Ph.D. Candidate in Statistics, Virginia Tech**  
-  *Blacksburg, VA, United States*  
-  Advisor: **Dr. Pang Du** (Professor, Virginia Tech)  
-  Co-advisor: **Dr. Yili Hong** (Professor, Virginia Tech)  
-
-- **M.S. in Statistics, Sungkyunkwan University**  
-  *Seoul, Republic of Korea*  
-  Advisor: **Dr. Seyoung Park** (Associate Professor, Yonsei University)  
-
-- **B.Ec. in Statistics, Sungkyunkwan University**  
-  *Seoul, Republic of Korea*  
  
 ---
 
@@ -44,3 +28,18 @@ I am a Ph.D. candidate in Statistics at Virginia Tech. My research interests inc
 - **Cho, Y.**, Lee, E., and Park, S. (2025+). *Low-rank and Sparse Smoothed Quantile Regression Models for Multiple Responses*.  
 - Sim, E., **Cho, Y.**, and Jeong, S. (2025+). *Introducing the Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) to Quantitatively Examine Intersectional Workplace Inequities: A Methodological Study*.  
 
+---
+
+## Education
+
+- **Ph.D. Candidate in Statistics, Virginia Tech**  
+  *Blacksburg, VA, United States*  
+  Advisor: **Dr. Pang Du** (Professor, Virginia Tech)  
+  Co-advisor: **Dr. Yili Hong** (Professor, Virginia Tech)  
+
+- **M.S. in Statistics, Sungkyunkwan University**  
+  *Seoul, Republic of Korea*  
+  Advisor: **Dr. Seyoung Park** (Associate Professor, Yonsei University)  
+
+- **B.Ec. in Statistics, Sungkyunkwan University**  
+  *Seoul, Republic of Korea*  
