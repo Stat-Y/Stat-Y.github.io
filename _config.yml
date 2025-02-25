@@ -7,6 +7,7 @@ markdown: kramdown
 header_pages:
   - index.md
   - cv.md
+  - software.md
 
 # SEO metadata
 description: "Youngjin Cho is a Ph.D. candidate in Statistics at Virginia Tech. Research interests include smoothing splines, survival analysis, functional data analysis, and high-dimensional statistics."
