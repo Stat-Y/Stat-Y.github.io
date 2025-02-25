@@ -4,7 +4,3 @@ theme: "minima"
 url: "https://yourusername.github.io"
 baseurl: "/"
 markdown: kramdown
-
-navigation:
-  - title: "CV"
-    url: "/cv.html"
