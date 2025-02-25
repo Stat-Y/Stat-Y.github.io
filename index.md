@@ -1,5 +1,4 @@
 ---
-title: "Youngjin Cho"
 layout: home
 ---
 
