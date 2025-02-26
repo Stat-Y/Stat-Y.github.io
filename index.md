@@ -17,6 +17,19 @@ To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu
 
 ---
 
+## Education
+
+- **Ph.D. Candidate in Statistics, Virginia Tech**  
+  Advisor: [Dr. Pang Du](https://pangdu3a.github.io/) (Professor, Virginia Tech)  
+  Co-advisor: [Dr. Yili Hong](https://scholar.google.com/citations?user=jIJnyHMAAAAJ&hl=en) (Professor, Virginia Tech)  
+
+- **M.S. in Statistics, Sungkyunkwan University**  
+  Advisor: [Dr. Seyoung Park](https://sites.google.com/view/seyoungpark/home) (Associate Professor, Yonsei University)  
+
+- **B.Ec. in Statistics, Sungkyunkwan University** 
+
+---
+
 ## Publications
 
 ### Journal Articles
@@ -29,16 +42,3 @@ To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu
 - Lin, Z., **Cho, Y.**, Du, P., and Hong, Y. (2025+), *A New Approach for Computing Partial Likelihood for Cox Model Under Competing Risks Using Poisson Multinomial Distribution*.  
 - **Cho, Y.**, Lee, E., and Park, S. (2025+), *Low-rank and Sparse Smoothed Quantile Regression Models for Multiple Responses*.  
 - Sim, E., **Cho, Y.**, and Jeong, S. (2025+), *Introducing the Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) to Quantitatively Examine Intersectional Workplace Inequities: A Methodological Study*. 
-
----
-
-## Education
-
-- **Ph.D. Candidate in Statistics, Virginia Tech**  
-  Advisor: [Dr. Pang Du](https://pangdu3a.github.io/) (Professor, Virginia Tech)  
-  Co-advisor: [Dr. Yili Hong](https://scholar.google.com/citations?user=jIJnyHMAAAAJ&hl=en) (Professor, Virginia Tech)  
-
-- **M.S. in Statistics, Sungkyunkwan University**  
-  Advisor: [Dr. Seyoung Park](https://sites.google.com/view/seyoungpark/home) (Associate Professor, Yonsei University)  
-
-- **B.Ec. in Statistics, Sungkyunkwan University** 
