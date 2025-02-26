@@ -5,7 +5,7 @@ layout: home
 
 ## Welcome to Youngjin Cho's Homepage
 
-I am a Ph.D. candidate in Statistics at Virginia Tech, advised by [Dr. Pang Du](https://pangdu3a.github.io/), with [Dr. Yili Hong](https://scholar.google.com/citations?user=jIJnyHMAAAAJ&hl=en) as my co-advisor. My research interests include:
+I am a Ph.D. candidate in Statistics at Virginia Tech. My research interests include:
 
 - **Smoothing Splines:** I conduct research on various smoothing spline ANOVA models, concentrating on 1) developing models for survival data and 2) exploring statistical inference using functional Bahadur representation.
 - **Functional Data Analysis:** I take an application-driven approach to diverse functional datasets. A key focus is battery discharge curve data, representing longitudinal functional data with a heterogeneous domain.
