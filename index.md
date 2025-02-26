@@ -21,7 +21,7 @@ To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu
 
 ### Journal Articles
 - **Cho, Y.**, Hong, Y., and Du, P. (2025+), *An Accurate Computational Approach for Partial Likelihood Using Poisson-Binomial Distributions*, ***Computational Statistics & Data Analysis***, Accepted.  
-- **Cho, Y.**, Do, Q., Du, P., and Hong, Y. (2024), *Reliability Study of Battery Lives: A Functional Degradation Analysis Approach*, ***Annals of Applied Statistics***, Vol.18, No.4, 3185-3204.  
+- **Cho, Y.**, Do, Q., Du, P., and Hong, Y. (2024), [*Reliability Study of Battery Lives: A Functional Degradation Analysis Approach*](https://arxiv.org/pdf/2212.05515), ***Annals of Applied Statistics***, Vol.18, No.4, 3185-3204.  
 - **Cho, Y.** and Park, S. (2022), *Multivariate Response Regression with Low-Rank and Generalized Sparsity*, ***Journal of the Korean Statistical Society***, Vol.51, 847-867. 
 
 ### Papers in Progress
