@@ -7,7 +7,7 @@ layout: home
 
 I am a Ph.D. candidate in Statistics at Virginia Tech. My research interests include:
 
-- **Smoothing Splines:** I conduct research on various smoothing spline ANOVA models, concentrating on 1) developing models for survival data and 2) exploring statistical inference using functional Bahadur representation.
+- **Smoothing Splines:** I conduct research on various smoothing spline ANOVA models, concentrating on (1) developing models for survival data and (2) exploring statistical inference, including effect-wise hypothesis testing.  
 - **Functional Data Analysis:** I take an application-driven approach to diverse functional datasets. A key focus is battery discharge curve data, representing longitudinal functional data with a heterogeneous domain.
 - **Survival Analysis:** I focus on the accurate computation of partial likelihood, including computational, methodological, and theoretical development, with a particular emphasis on its application to heavily tied data.
 - **High-Dimensional Statistics:** I work on variable selection for datasets with multivariate responses.
