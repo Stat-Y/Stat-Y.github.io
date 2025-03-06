@@ -37,7 +37,7 @@ To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu
 - **Cho, Y.**, Do, Q., Du, P., and Hong, Y. (2024), *Reliability Study of Battery Lives: A Functional Degradation Analysis Approach*, ***Annals of Applied Statistics***, Vol.18, No.4, 3185-3204. [[doi]](https://doi.org/10.1214/24-AOAS1931) [[pdf]](https://arxiv.org/pdf/2212.05515)  
 - **Cho, Y.** and Park, S. (2022), *Multivariate Response Regression with Low-Rank and Generalized Sparsity*, ***Journal of the Korean Statistical Society***, Vol.51, 847-867. [[doi]](https://doi.org/10.1007/s42952-022-00164-6)
 
-### Papers in Progress
+### Papers in Progress / Under Review
 - **Cho, Y.** and Du, P. (2025+), *Smoothing Spline Competing Risk Cox Model*.  
 - Lin, Z., **Cho, Y.**, Du, P., and Hong, Y. (2025+), *A New Approach for Computing Partial Likelihood for Cox Model Under Competing Risks Using Poisson Multinomial Distribution*.  
 - **Cho, Y.**, Lee, E., and Park, S. (2025+), *Low-rank and Sparse Smoothed Quantile Regression Models for Multiple Responses*.  
