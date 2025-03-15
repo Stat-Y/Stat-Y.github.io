@@ -3,6 +3,9 @@ title: Home
 layout: home
 ---
 
+<br>
+<img src="IMG_6054.JPG" alt="Youngjin Cho" width="500">
+
 ## Welcome to Youngjin Cho's Homepage
 
 I am a Ph.D. candidate in Statistics at Virginia Tech. My research interests include:
@@ -14,11 +17,6 @@ I am a Ph.D. candidate in Statistics at Virginia Tech. My research interests inc
 - **Collaborative Research:** I am also involved in a collaborative project in social science.  
 
 To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu). For more details, see my [Curriculum Vitae](CV_Youngjin_Cho.pdf).
-
----
-
-<br>
-<img src="IMG_6054.JPG" alt="Youngjin Cho" width="500">
 
 ---
 
