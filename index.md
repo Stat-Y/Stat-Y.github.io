@@ -3,7 +3,9 @@ title: Home
 layout: home
 ---
 
-<img src="IMG_6054.JPG" alt="Youngjin Cho" width="300">
+<div style="width: 300px; height: 533px; overflow: hidden;">
+  <img src="IMG_6054.JPG" alt="Youngjin Cho" style="width: 100%; object-fit: cover; object-position: top;">
+</div>
 
 ## Welcome to Youngjin Cho's Homepage
 
