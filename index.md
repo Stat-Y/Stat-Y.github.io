@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-<img src="IMG_6054.jpg" alt="Youngjin Cho" width="200" style="border-radius: 50%;">
+<img src="IMG_6054.JPG" alt="Youngjin Cho" width="200" style="border-radius: 50%;">
 
 ## Welcome to Youngjin Cho's Homepage
 
