@@ -5,24 +5,13 @@ layout: home
 
 ## Welcome to Youngjin Cho's Homepage
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div>
-    <p>
-      I am a Ph.D. candidate in Statistics at Virginia Tech. My research interests include:
-    </p>
-    <ul>
-      <li><b>Smoothing Splines:</b> I conduct research on smoothing spline ANOVA models, specifically concentrating on (1) developing models for survival data and (2) exploring statistical inference, including effect-wise hypothesis testing.</li>
-      <li><b>Functional Data Analysis:</b> I take an application-driven approach to functional datasets. A key focus is battery discharge curve data, representing longitudinal functional data with a heterogeneous domain.</li>
-      <li><b>Survival Analysis:</b> I focus on the accurate computation of partial likelihood, including computational, methodological, and theoretical development, with a particular emphasis on its application to heavily tied data.</li>
-      <li><b>High-Dimensional Statistics:</b> I work on variable selection for datasets with multivariate responses.</li>
-      <li><b>Collaborative Research:</b> I am also involved in a collaborative project in social science.</li>
-    </ul>
-  </div>
-  
-  <div>
-    <img src="IMG_6054.JPG" alt="Youngjin Cho" width="1500" style="border-radius: 10px;">
-  </div>
-</div>
+I am a Ph.D. candidate in Statistics at Virginia Tech. My research interests include:
+
+- **Smoothing Splines:** I conduct research on smoothing spline ANOVA models, specifically concentrating on (1) developing models for survival data and (2) exploring statistical inference, including effect-wise hypothesis testing.
+- **Functional Data Analysis:** I take an application-driven approach to functional datasets. A key focus is battery discharge curve data, representing longitudinal functional data with a heterogeneous domain.
+- **Survival Analysis:** I focus on the accurate computation of partial likelihood, including computational, methodological, and theoretical development, with a particular emphasis on its application to heavily tied data.
+- **High-Dimensional Statistics:** I work on variable selection for datasets with multivariate responses.
+- **Collaborative Research:** I am also involved in a collaborative project in social science.  
 
 To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu). For more details, see my [Curriculum Vitae](CV_Youngjin_Cho.pdf).
 
@@ -53,3 +42,8 @@ To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu
 - Lin, Z., **Cho, Y.**, Du, P., and Hong, Y. (2025+), *A New Approach for Computing Partial Likelihood for Cox Model Under Competing Risks Using Poisson Multinomial Distribution*.
 - Sim, E., **Cho, Y.**, and Jeong, S. (2025+), *Introducing the Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) to Quantitatively Examine Intersectional Workplace Inequities: A Methodological Study*.
 - **Cho, Y.**, Lee, E., and Park, S. (2025+), *Low-rank and Sparse Smoothed Quantile Regression Models for Multiple Responses*.
+
+---
+
+<br>
+<img src="IMG_6054.JPG" alt="Youngjin Cho" width="500">
