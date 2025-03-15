@@ -15,7 +15,6 @@ I am a Ph.D. candidate in Statistics at Virginia Tech. My research interests inc
 
 To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu). For more details, see my [Curriculum Vitae](CV_Youngjin_Cho.pdf).
 
-<br>
 <img src="IMG_6054.JPG" alt="Youngjin Cho" width="500">
 
 ---
