@@ -43,5 +43,7 @@ To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu
 - Sim, E., **Cho, Y.**, and Jeong, S. (2025+), *Introducing the Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) to Quantitatively Examine Intersectional Workplace Inequities: A Methodological Study*.
 - **Cho, Y.**, Lee, E., and Park, S. (2025+), *Low-rank and Sparse Smoothed Quantile Regression Models for Multiple Responses*.
 
+---
+
 <img src="IMG_6054.JPG" alt="Youngjin Cho" width="500">
 
