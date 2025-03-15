@@ -19,8 +19,8 @@ layout: home
     </ul>
   </div>
   
-  <div style="flex: 0.7;">
-    <img src="IMG_6054.JPG" alt="Youngjin Cho" width="500" style="border-radius: 10px;">
+  <div>
+    <img src="IMG_6054.JPG" alt="Youngjin Cho" width="1000" style="border-radius: 10px;">
   </div>
 </div>
 
