@@ -20,7 +20,7 @@ layout: home
   </div>
   
   <div>
-    <img src="IMG_6054.JPG" alt="Youngjin Cho" width="1000" style="border-radius: 10px;">
+    <img src="IMG_6054.JPG" alt="Youngjin Cho" width="1500" style="border-radius: 10px;">
   </div>
 </div>
 
