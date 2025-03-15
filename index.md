@@ -45,6 +45,6 @@ To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu
 
 ---
 
-
+<br>
 <img src="IMG_6054.JPG" alt="Youngjin Cho" width="500">
 
