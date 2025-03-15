@@ -20,7 +20,7 @@ layout: home
   </div>
   
   <div>
-    <img src="IMG_6054.JPG" alt="Youngjin Cho" width="300" style="border-radius: 10px;">
+    <img src="IMG_6054.JPG" alt="Youngjin Cho" width="500" style="border-radius: 10px;">
   </div>
 </div>
 
@@ -53,9 +53,3 @@ To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu
 - Lin, Z., **Cho, Y.**, Du, P., and Hong, Y. (2025+), *A New Approach for Computing Partial Likelihood for Cox Model Under Competing Risks Using Poisson Multinomial Distribution*.
 - Sim, E., **Cho, Y.**, and Jeong, S. (2025+), *Introducing the Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) to Quantitatively Examine Intersectional Workplace Inequities: A Methodological Study*.
 - **Cho, Y.**, Lee, E., and Park, S. (2025+), *Low-rank and Sparse Smoothed Quantile Regression Models for Multiple Responses*.
-
----
-
-<br>
-<img src="IMG_6054.JPG" alt="Youngjin Cho" width="500">
-
