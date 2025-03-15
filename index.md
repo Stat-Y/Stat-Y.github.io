@@ -13,7 +13,7 @@ I am a Ph.D. candidate in Statistics at Virginia Tech. My research interests inc
 - **High-Dimensional Statistics:** I work on variable selection for datasets with multivariate responses.
 - **Collaborative Research:** I am also involved in a collaborative project in social science.  
 
-To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu). For more details, see my [Curriculum Vitae](CV_Youngjin_Cho.pdf) and [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=E2Y3PdEAAAAJ&hl=en).
+To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu). For more details, see my [Curriculum Vitae](CV_Youngjin_Cho.pdf). You can also visit my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=E2Y3PdEAAAAJ&hl=en).
 
 <img src="IMG_6054.JPG" alt="Youngjin Cho" width="500">
 
