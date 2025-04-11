@@ -40,6 +40,7 @@ To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu
 - **Cho, Y.** and Park, S. (2022), *Multivariate Response Regression with Low-Rank and Generalized Sparsity*, ***Journal of the Korean Statistical Society***, Vol.51, 847-867. [[doi]](https://doi.org/10.1007/s42952-022-00164-6)
 
 ### Papers in Progress / Under Review
+- *Effect-Wise Local and Global Inference in Smoothing Spline ANOVA.*.
 - **Cho, Y.** and Du, P. (2025+), *Smoothing Spline Competing Risk Cox Model*.  
 - Lin, Z., **Cho, Y.**, Du, P., and Hong, Y. (2025+), *A New Approach for Computing Partial Likelihood for Cox Model Under Competing Risks Using Poisson Multinomial Distribution*.
 - Sim, E., **Cho, Y.**, and Jeong, S. (2025+), *Introducing the Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) to Quantitatively Examine Intersectional Workplace Inequities: A Methodological Study*.
