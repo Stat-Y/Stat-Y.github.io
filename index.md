@@ -11,7 +11,7 @@ I am a Ph.D. candidate in Statistics at Virginia Tech. My research interests inc
 - **Functional Data Analysis:** I take an application-driven approach to functional datasets. A key focus is battery discharge curve data, representing longitudinal functional data with a heterogeneous domain.
 - **Survival Analysis:** I focus on the accurate computation of partial likelihood, including computational, methodological, and theoretical development, with a particular emphasis on its application to heavily tied data.
 - **High-Dimensional Statistics:** I work on variable selection for datasets with multivariate responses.
-- **Collaborative Research:** I am also involved in a collaborative project in social science.  
+- **Collaborative Research:** I am also involved in collaborative projects in social science.  
 
 To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu). For more details, see my [Curriculum Vitae](CV_Youngjin_Cho.pdf). You can also visit my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=E2Y3PdEAAAAJ&view_op=list_works&sortby=pubdate).
 
