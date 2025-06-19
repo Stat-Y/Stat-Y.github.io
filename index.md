@@ -5,7 +5,7 @@ layout: home
 
 ## Welcome to Youngjin Cho's Homepage
 
-I am a Ph.D. candidate in Statistics at Virginia Tech. My research interests include:
+I am currently a Ph.D. candidate in Statistics at Virginia Tech and have accepted an offer to join the University of Nevada, Las Vegas as a tenure-track Assistant Professor, starting in January 2026. My research interests include:
 
 - **Smoothing Splines:** I conduct research on smoothing spline ANOVA models, specifically concentrating on (1) developing models for survival data and (2) exploring statistical inference, including effect-wise hypothesis testing.
 - **Functional Data Analysis:** I take an application-driven approach to functional datasets. A key focus is battery discharge curve data, representing longitudinal functional data with a heterogeneous domain.
