@@ -42,6 +42,6 @@ To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu
 ### Papers in Progress / Under Review
 - *Effect-Wise Local and Global Inference in Smoothing Spline ANOVA*.
 - **Cho, Y.** and Du, P. (2025+), *Smoothing Spline Competing Risk Cox Model*.  
-- **Cho, Y.**, Lin, Z., Du, P., and Hong, Y. (2025+), *A New Approach for Computing Partial Likelihood for Cox Model Under Competing Risks Using Poisson Multinomial Distribution*.
+- **Cho, Y.**, Lin, Z., Du, P., and Hong, Y. (2025+), *Computing Partial Likelihood in Cox’s Model with Competing Risks and Ties: A New Approach Using the Poisson Multinomial Distribution*.
 - Sim, E., **Cho, Y.**, and Jeong, S. (2025+), *Introducing the Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) to Quantitatively Examine Intersectional Workplace Inequities: A Methodological Study*.
 - **Cho, Y.**, Lee, E., and Park, S. (2025+), *Low-rank and Sparse Smoothed Quantile Regression Models for Multiple Responses*.
