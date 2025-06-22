@@ -5,15 +5,7 @@ layout: home
 
 ## Welcome to Youngjin Cho's Homepage
 
-I am currently a Ph.D. candidate in Statistics at Virginia Tech and have accepted an offer to join the University of Nevada, Las Vegas as a tenure-track assistant professor, starting in January 2026. My research interests include:
-
-- **Smoothing Splines**: I conduct research on smoothing spline ANOVA models, specifically concentrating on (1) developing models for survival data and (2) exploring statistical inference, including effect-wise hypothesis testing.
-- **Functional Data Analysis**: I take an application-driven approach to functional datasets. A key focus is battery discharge curve data, representing longitudinal functional data with a heterogeneous domain.
-- **Survival Analysis**: I focus on the accurate computation of partial likelihood, including computational, methodological, and theoretical development, with a particular emphasis on its application to heavily tied data.
-- **High-Dimensional Statistics**: I work on variable selection for datasets with multivariate responses.
-- **Collaborative Research**: I am also involved in collaborative projects in social science.  
-
-To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu). For more details, see my [Curriculum Vitae](CV_Youngjin_Cho.pdf). You can also visit my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=E2Y3PdEAAAAJ&view_op=list_works&sortby=pubdate).
+I am currently a Ph.D. candidate in Statistics at Virginia Tech and have accepted an offer to join the University of Nevada, Las Vegas as a tenure-track assistant professor, starting in January 2026. My research interests include Smoothing Splines, Functional Data Analysis, Survival Analysis, and High-Dimensional Statistics. To contact me, the best way is to email [youngjin@vt.edu](mailto:youngjin@vt.edu). For more details, see my [Curriculum Vitae](CV_Youngjin_Cho.pdf). You can also visit my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=E2Y3PdEAAAAJ&view_op=list_works&sortby=pubdate).
 
 <img src="IMG_6054.JPG" alt="Youngjin Cho" width="500">
 
