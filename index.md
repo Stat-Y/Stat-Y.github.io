@@ -5,7 +5,7 @@ layout: home
 
 ## Welcome to Youngjin Cho's Homepage
 
-I am currently a Ph.D. candidate in Statistics at Virginia Tech and have accepted an offer to join the University of Nevada, Las Vegas as a tenure-track assistant professor, starting in January 2026. My research interests include Smoothing Splines, Functional Data Analysis, Survival Analysis, and High-Dimensional Statistics. To contact me, please email [youngjin@vt.edu](mailto:youngjin@vt.edu). For more details, see my [Curriculum Vitae](CV_Youngjin_Cho.pdf). You can also visit my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=E2Y3PdEAAAAJ&view_op=list_works&sortby=pubdate).
+I am currently a Ph.D. candidate in Statistics at Virginia Tech and have accepted an offer to join the University of Nevada, Las Vegas as a tenure-track assistant professor, starting in January 2026. My research interests include Smoothing Splines, Functional Data Analysis, Survival Analysis, and High-Dimensional Statistics. To contact me, you can email [youngjin@vt.edu](mailto:youngjin@vt.edu). For more details, see my [Curriculum Vitae](CV_Youngjin_Cho.pdf). You can also visit my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=E2Y3PdEAAAAJ&view_op=list_works&sortby=pubdate).
 
 <img src="IMG_6054.JPG" alt="Youngjin Cho" width="500">
 
