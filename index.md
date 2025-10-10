@@ -32,8 +32,8 @@ I am currently a Ph.D. candidate in Statistics at Virginia Tech and have accepte
 - **Cho, Y.** and Park, S. (2022), *Multivariate Response Regression with Low-Rank and Generalized Sparsity*, *Journal of the Korean Statistical Society*, Vol.51, 847-867. [[doi]](https://doi.org/10.1007/s42952-022-00164-6)
 
 ### Papers in Progress / Under Review
-- *Effect-Wise Local and Global Inference in Smoothing Spline ANOVA*.
-- **Cho, Y.** and Du, P. (2025+), *Smoothing Spline Competing Risk Cox Model*.  
-- **Cho, Y.**, Lin, Z., Du, P., and Hong, Y. (2025+), *Computing Partial Likelihood in Cox’s Model with Competing Risks and Ties: A New Approach Using the Poisson Multinomial Distribution*.
+- **Cho, Y.** and Liu, M. (2025+), *Effect-Wise Local and Global Inference in Smoothing Spline ANOVA*.
+- **Cho, Y.** and Du, P. (2025+), *Competing Risk Model with A Nonparametric Form of Spline-Estimated Relative Risks*.  
+- **Cho, Y.**, Lin, Z., Du, P., and Hong, Y. (2025+), *Computing Partial Likelihood in Cox's Model with Competing Risks and Ties: A New Approach Using the Poisson Multinomial Distribution*.
 - Sim, E., **Cho, Y.**, and Jeong, S. (2025+), *Introducing the Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) to Quantitatively Examine Intersectional Workplace Inequities: A Methodological Study*.
-- **Cho, Y.**, Lee, E., and Park, S. (2025+), *Low-rank and Sparse Smoothed Quantile Regression Models for Multiple Responses*.
+- **Cho, Y.**, Lee, E., and Park, S. (2025+), *Convolution-Smoothed Multiple-Response Quantile Regression: Estimation and Inference*.
