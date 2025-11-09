@@ -27,8 +27,8 @@ I am currently a Ph.D. candidate in Statistics at Virginia Tech and have accepte
 ## Publications
 
 ### Journal Articles
-- **Cho, Y.**, Hong, Y., and Du, P. (2025), *An Accurate Computational Approach for Partial Likelihood Using Poisson-Binomial Distributions*, *Computational Statistics & Data Analysis*, Vol.208, 108161. [[doi]](https://doi.org/10.1016/j.csda.2025.108161) [[pdf]](https://arxiv.org/pdf/2502.18715) 
-- **Cho, Y.**, Do, Q., Du, P., and Hong, Y. (2024), *Reliability Study of Battery Lives: A Functional Degradation Analysis Approach*, *Annals of Applied Statistics*, Vol.18, No.4, 3185-3204. [[doi]](https://doi.org/10.1214/24-AOAS1931) [[pdf]](https://arxiv.org/pdf/2212.05515)  
+- **Cho, Y.**, Hong, Y., and Du, P. (2025), *An Accurate Computational Approach for Partial Likelihood Using Poisson-Binomial Distributions*, *Computational Statistics & Data Analysis*, Vol.208, 108161. [[doi]](https://doi.org/10.1016/j.csda.2025.108161) 
+- **Cho, Y.**, Do, Q., Du, P., and Hong, Y. (2024), *Reliability Study of Battery Lives: A Functional Degradation Analysis Approach*, *Annals of Applied Statistics*, Vol.18, No.4, 3185-3204. [[doi]](https://doi.org/10.1214/24-AOAS1931)  
 - **Cho, Y.** and Park, S. (2022), *Multivariate Response Regression with Low-Rank and Generalized Sparsity*, *Journal of the Korean Statistical Society*, Vol.51, 847-867. [[doi]](https://doi.org/10.1007/s42952-022-00164-6)
 
 ### Papers in Progress / Under Review
