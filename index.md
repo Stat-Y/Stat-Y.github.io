@@ -5,7 +5,7 @@ layout: home
 
 ## Welcome to Youngjin Cho's Homepage
 
-I am currently a Ph.D. candidate in Statistics at Virginia Tech and have accepted an offer to join the Department of Mathematical Sciences at the University of Nevada, Las Vegas as a tenure-track assistant professor, starting in January 2026. My research interests include Smoothing Splines, Functional Data Analysis, Survival Analysis, and High-Dimensional Statistics. To contact me, you can email [youngjin@vt.edu](mailto:youngjin@vt.edu). For more details, see my [Curriculum Vitae](CV_Youngjin_Cho.pdf). You can also visit my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=E2Y3PdEAAAAJ&view_op=list_works&sortby=pubdate).
+I received my Ph.D. in Statistics from Virginia Tech and have accepted an offer to join the Department of Mathematical Sciences at the University of Nevada, Las Vegas as a tenure-track assistant professor, starting in January 2026. My research interests include Smoothing Splines, Functional Data Analysis, Survival Analysis, and High-Dimensional Statistics. To contact me, you can email [youngjin@vt.edu](mailto:youngjin@vt.edu). For more details, see my [Curriculum Vitae](CV_Youngjin_Cho.pdf). You can also visit my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=E2Y3PdEAAAAJ&view_op=list_works&sortby=pubdate).
 
 <img src="IMG_9149.JPG" alt="Youngjin Cho" width="500">
 
@@ -13,7 +13,7 @@ I am currently a Ph.D. candidate in Statistics at Virginia Tech and have accepte
 
 ## Education
 
-- Ph.D. Candidate in Statistics, Virginia Tech (2020 - )  
+- Ph.D. in Statistics, Virginia Tech (2025)  
   Advisor: [Dr. Pang Du](https://pangdu3a.github.io/) (Professor, Virginia Tech)  
   Co-advisor: [Dr. Yili Hong](https://scholar.google.com/citations?user=jIJnyHMAAAAJ&hl=en) (Professor, Virginia Tech)  
 
