@@ -1,0 +1,8 @@
+title: "Youngjin Cho"
+theme: "minima"
+url: "https://yourusername.github.io"
+baseurl: "/"
+markdown: kramdown
+header_pages:
+  - index.md
+  - software.md

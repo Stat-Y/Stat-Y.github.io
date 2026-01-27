@@ -1,0 +1,26 @@
+---
+title: Home
+layout: home
+---
+
+## Welcome to Youngjin Cho's Homepage
+
+I am a tenure-track assistant professor in the Department of Mathematical Sciences at the University of Nevada, Las Vegas. I received my Ph.D. in Statistics from Virginia Tech, and prior to that, I earned my bachelor’s and master’s degrees in Statistics from Sungkyunkwan University. My research focuses on the development of statistical methodology, with primary interests in Smoothing Splines, Functional Data Analysis, Survival Analysis, and High-Dimensional Statistics. To contact me, you can email [youngjin.cho@unlv.edu](mailto:youngjin.cho@unlv.edu). 
+
+---
+
+## Publications
+
+### Journal Articles
+- **Cho, Y.**, Hong, Y., and Du, P. (2025), *An Accurate Computational Approach for Partial Likelihood Using Poisson-Binomial Distributions*, *Computational Statistics & Data Analysis*, Vol.208, 108161. [[link]](https://doi.org/10.1016/j.csda.2025.108161) 
+- **Cho, Y.**, Do, Q., Du, P., and Hong, Y. (2024), *Reliability Study of Battery Lives: A Functional Degradation Analysis Approach*, *Annals of Applied Statistics*, Vol.18, No.4, 3185-3204. [[link]](https://doi.org/10.1214/24-AOAS1931)  
+- **Cho, Y.** and Park, S. (2022), *Multivariate Response Regression with Low-Rank and Generalized Sparsity*, *Journal of the Korean Statistical Society*, Vol.51, 847-867. [[link]](https://doi.org/10.1007/s42952-022-00164-6)
+
+### Papers in Progress / Under Review
+- **Cho, Y.\*** and Liu, M. (2026+), *Effect-Wise Inference for Smoothing Spline ANOVA on Tensor-Product Sobolev Space*.
+- **Cho, Y.**, Lee, E., and Park, S. (2026+), *Convolution-Smoothed Multiple-Response Quantile Regression: Estimation and Inference*.
+- **Cho, Y.\***, Lin, Z., Du, P., and Hong, Y. (2026+), *Computing Partial Likelihood in Cox's Model with Competing Risks and Ties: A New Approach Using the Poisson Multinomial Distribution*.
+- **Cho, Y.** and Du, P. (2026+), *Competing Risk Model with A Nonparametric Form of Spline-Estimated Relative Risks*.  
+- Sim, E., **Cho, Y.**, and Jeong, S. (2026+), *Introducing the Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) to Quantitatively Examine Intersectional Workplace Inequities: A Methodological Study*.
+
+*Corresponding author.
