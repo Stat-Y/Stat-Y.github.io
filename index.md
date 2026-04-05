@@ -5,7 +5,7 @@ layout: home
 
 ## Welcome to Youngjin Cho's Homepage
 
-I am a tenure-track assistant professor in the Department of Mathematical Sciences at the University of Nevada, Las Vegas. I received my Ph.D. in Statistics from Virginia Tech, and prior to that, I earned my bachelor’s and master’s degrees in Statistics from Sungkyunkwan University. My research focuses on the development of statistical methodology, with primary interests in Smoothing Splines, Functional Data Analysis, Survival Analysis, and High-Dimensional Statistics. To contact me, you can email [youngjin.cho@unlv.edu](mailto:youngjin.cho@unlv.edu). 
+I have been a tenure-track assistant professor in the Department of Mathematical Sciences at the University of Nevada, Las Vegas since January 2026. I received my Ph.D. in Statistics from Virginia Tech, and prior to that, I earned my bachelor’s and master’s degrees in Statistics from Sungkyunkwan University. My research focuses on the development of statistical methodology, with primary interests in Smoothing Splines, Functional Data Analysis, Survival Analysis, and High-Dimensional Statistics. To contact me, you can email [youngjin.cho@unlv.edu](mailto:youngjin.cho@unlv.edu). 
 
 ---
 
