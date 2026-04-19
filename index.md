@@ -16,7 +16,7 @@ I have been a tenure-track assistant professor in the Department of Mathematical
 - **Cho, Y.**, Do, Q., Du, P., and Hong, Y. (2024), *Reliability Study of Battery Lives: A Functional Degradation Analysis Approach*, *Annals of Applied Statistics*, Vol.18, No.4, 3185-3204. [[link]](https://doi.org/10.1214/24-AOAS1931)  
 - **Cho, Y.** and Park, S. (2022), *Multivariate Response Regression with Low-Rank and Generalized Sparsity*, *Journal of the Korean Statistical Society*, Vol.51, 847-867. [[link]](https://doi.org/10.1007/s42952-022-00164-6)
 
-### Papers in Progress / Under Review
+### Papers Under Review / Preprints
 - **Cho, Y.\*** and Liu, M. (2026+), *Effect-Wise Inference for Smoothing Spline ANOVA on Tensor-Product Sobolev Space*. [[link]](https://arxiv.org/abs/2602.02753)
 - **Cho, Y.**, Lee, E., and Park, S. (2026+), *Convolution-Smoothed Multiple-Response Quantile Regression: Estimation and Inference*.
 - **Cho, Y.\***, Lin, Z., Du, P., and Hong, Y. (2026+), *Computing Partial Likelihood in Cox's Model with Competing Risks and Ties: A New Approach Using the Poisson Multinomial Distribution*.
