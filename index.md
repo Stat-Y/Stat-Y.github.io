@@ -9,7 +9,7 @@ I have been a tenure-track assistant professor in the Department of Mathematical
 
 ---
 
-## Publications
+## Publications in Statistics
 
 ### Journal Articles
 - **Cho, Y.**, Hong, Y., and Du, P. (2025), *An Accurate Computational Approach for Partial Likelihood Using Poisson-Binomial Distributions*, *Computational Statistics & Data Analysis*, Vol.208, 108161. [[link]](https://doi.org/10.1016/j.csda.2025.108161) 
@@ -20,7 +20,12 @@ I have been a tenure-track assistant professor in the Department of Mathematical
 - **Cho, Y.\*** and Liu, M. (2026+), *Effect-Wise Inference for Smoothing Spline ANOVA on Tensor-Product Sobolev Space*. [[link]](https://arxiv.org/abs/2602.02753)
 - **Cho, Y.**, Lee, E., and Park, S. (2026+), *Convolution-Smoothed Multiple-Response Quantile Regression: Estimation and Inference*.
 - **Cho, Y.\***, Lin, Z., Du, P., and Hong, Y. (2026+), *Computing Partial Likelihood in Cox's Model with Competing Risks and Ties: A New Approach Using the Poisson Multinomial Distribution*.
-- **Cho, Y.** and Du, P. (2026+), *Competing Risk Model with A Nonparametric Form of Spline-Estimated Relative Risks*.  
+- **Cho, Y.** and Du, P. (2026+), *Competing Risk Model with A Nonparametric Form of Spline-Estimated Relative Risks*.
+
+## Interdisciplinary Works
+
+### Papers Under Review
+- Sim, E., **Cho, Y.**, Jeong, S., and Cho, H. (2026+), *Examining Adult Cognitive Skills Beyond the Mean: A Quantile Regression Analysis of PIAAC Korea Data*.
 - Sim, E., **Cho, Y.**, and Jeong, S. (2026+), *Introducing the Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) to Quantitatively Examine Intersectional Workplace Inequities: A Methodological Study*.
 
 *Corresponding author.
