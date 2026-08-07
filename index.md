@@ -18,8 +18,6 @@ I am a tenure-track assistant professor in the Department of Mathematical Scienc
 - **Cho, Y.**, Do, Q., Du, P., and Hong, Y. (2024), [*Reliability Study of Battery Lives: A Functional Degradation Analysis Approach*](https://doi.org/10.1214/24-AOAS1931), *Annals of Applied Statistics*, Vol.18, No.4, 3185-3204.
 - **Cho, Y.** and Park, S. (2022), [*Multivariate Response Regression with Low-Rank and Generalized Sparsity*](https://doi.org/10.1007/s42952-022-00164-6), *Journal of the Korean Statistical Society*, Vol.51, 847-867.
 
----
-
 ## Collaborative Projects
 - Sim, E., **Cho, Y.**, Jeong, S., and Cho, H. (2026+), *Examining Adult Cognitive Skills Beyond the Mean: A Quantile Regression Analysis of PIAAC Korea Data*.
 - Sim, E., **Cho, Y.**, and Jeong, S. (2026+), *Introducing the Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) to Quantitatively Examine Intersectional Workplace Inequities: A Methodological Study*.
