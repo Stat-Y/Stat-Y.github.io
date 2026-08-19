@@ -10,7 +10,7 @@ I am a tenure-track assistant professor in the Department of Mathematical Scienc
 ---
 
 ## Research Papers
-- **Cho, Y.**, Lee, E., and Park, S. (2026+), *Convolution-Smoothed Multiple-Response Quantile Regression: Estimation and Inference*.
+- **Cho, Y.**, Lee, E., and Park, S. (2026+), *Quantile Modeling of Correlated Drug Responses with Low-Rank and Sparse Structure*.
 - **Cho, Y.\***, Lin, Z., Du, P., and Hong, Y. (2026+), *Computing Partial Likelihood in Cox's Model with Competing Risks and Ties: A New Approach Using the Poisson Multinomial Distribution*.
 - **Cho, Y.\*** and Liu, M. (2026+), *Effect-Wise Inference for Smoothing Spline ANOVA on Tensor-Product Sobolev Space*, arXiv:2602.02753. [[link]](https://arxiv.org/abs/2602.02753)
 - **Cho, Y.** and Du, P. (2026), *Competing Risk Model with A Nonparametric Form of Relative Risks*, **Lifetime Data Analysis**, Vol.32, Article 49. [[link]](https://link.springer.com/article/10.1007/s10985-026-09728-8)
