@@ -5,7 +5,7 @@ layout: home
 
 ## Welcome to Youngjin Cho's Homepage
 
-I am a tenure-track assistant professor in the Department of Mathematical Sciences at the University of Nevada, Las Vegas (UNLV). I joined the department in January 2026. I received my Ph.D. in Statistics from Virginia Tech, and prior to that, I earned my bachelor’s and master’s degrees in Statistics from Sungkyunkwan University. My research focuses on the development of statistical methodology, with primary interests in smoothing splines, functional data analysis, survival analysis, and high-dimensional statistics. Recently, I am particularly interested in developing nonparametric inference and hypothesis testing for smoothing spline ANOVA and functional data analysis, including research at their intersection with survival analysis. To contact me, you can email [youngjin.cho@unlv.edu](mailto:youngjin.cho@unlv.edu). 
+I am a tenure-track assistant professor in the Department of Mathematical Sciences at the University of Nevada, Las Vegas (UNLV). I joined the department in January 2026. I received my Ph.D. in Statistics from Virginia Tech in 2025, and prior to that, I earned my master’s and bachelor’s degrees in Statistics from Sungkyunkwan University in 2020 and 2017, respectively. My research focuses on the development of statistical methodology, with primary interests in smoothing splines, functional data analysis, survival analysis, and high-dimensional statistics. Recently, I am particularly interested in developing nonparametric inference and hypothesis testing for smoothing spline ANOVA and functional data analysis, including research at their intersection with survival analysis. To contact me, you can email [youngjin.cho@unlv.edu](mailto:youngjin.cho@unlv.edu). 
 
 ---
 
