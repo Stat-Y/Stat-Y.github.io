@@ -22,4 +22,4 @@ I am a tenure-track assistant professor in the Department of Mathematical Scienc
 
 ## Collaborative Projects
 - Sim, E., **Cho, Y.**, Jeong, S., and Cho, H. (2026+), *Examining Adult Cognitive Skills Beyond the Mean: A Quantile Regression Analysis of PIAAC Korea Data*.
-- Sim, E., **Cho, Y.**, and Jeong, S. (2026+), *Introducing the Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) to Quantitatively Examine Intersectional Workplace Inequities: A Methodological Study*, Frontiers In Organizational Psychology, Accepted.
+- Sim, E., **Cho, Y.**, and Jeong, S. (2026+), *Introducing the Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) to Quantitatively Examine Intersectional Workplace Inequities: A Methodological Study*, Frontiers in Organizational Psychology, Accepted.
